@@ -40,5 +40,6 @@ https://docs.google.com/spreadsheets/d/1gr-MDQoku5PC8wdw1P9yXd7_1fm3uMnqFr1ZUbcg
 - mini_magick
 - letter_opener
 - ransack
+- devise
 
 © 2018 GitHub, In
