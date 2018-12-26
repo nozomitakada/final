@@ -9,13 +9,12 @@ Ruby 2.4.0 Rails 5.1.1
 
 ## 機能一覧
 - ログイン機能
--	ユーザー登録機能
-  - 名前，メールアドレス，パスワード
+-	ユーザー登録機能 名前，メールアドレス，パスワード
 -	物件一覧表示機能
 -	物件登録機能
   -	物件情報，写真
 -	物件編集機能
-  -	 登録者のみ編集可能
+  -	登録者のみ編集可能
 -	物件削除機能
   -	登録者のみ削除可能
 -	検索機能
@@ -36,9 +35,9 @@ https://docs.google.com/spreadsheets/d/1jMWgKFyNDV9k67oM9hD9hNnEZXdDEdZZZCi3QGhG
 https://docs.google.com/spreadsheets/d/1gr-MDQoku5PC8wdw1P9yXd7_1fm3uMnqFr1ZUbcg7g4/edit?usp=sharing
 
 ## 使用予定Gem
-carrierwave
-mini_magick
-letter_opener
-ransack
+- carrierwave
+- mini_magick
+- letter_opener
+- ransack
 
 © 2018 GitHub, In
